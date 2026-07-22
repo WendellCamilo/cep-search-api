@@ -1,4 +1,4 @@
-# consultacep-api
+# cep-search-api
 
 Aplicação Java para busca de endereços a partir do CEP, utilizando a API pública do ViaCEP. Os dados retornados são exibidos no console e salvos automaticamente em um arquivo `.json`.
 
@@ -19,7 +19,7 @@ Aplicação Java para busca de endereços a partir do CEP, utilizando a API púb
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/consultacep-api.git
+git clone https://github.com/WendellCamilo/cep-search-api.git
 ```
 
 2. Abra o projeto no IntelliJ IDEA
